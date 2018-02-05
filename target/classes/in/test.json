@@ -1,0 +1,22 @@
+{ 
+"order":[
+{
+   "country" : "New Zealand",
+   "item" :{
+      "currency":"$",
+      "name":"Shovel",
+      "qty":"2",
+      "unitPrice" : "10"
+   }
+},
+{
+   "country" : "Malaysia",
+   "item" :{
+      "currency":"$",
+      "name":"Satay",
+      "qty":"2",
+      "unitPrice" : "10"
+   }
+}
+]
+}
